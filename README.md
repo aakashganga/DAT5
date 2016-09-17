@@ -1,4 +1,4 @@
-## DAT5 Course Repository
+## DAT5 Course Repository ##
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (3/18/15 - 6/3/15).
 
